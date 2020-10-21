@@ -4,7 +4,7 @@ body {
 img {
     width: 25%;
     margin: 4.0%;
-    transition: all 0.20s;
+    transition: all 0.30s;
 }
 
 img:hover {
